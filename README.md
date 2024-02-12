@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RoyalSalm0n
-- 👀 I’m interested in automation, coding and web devlopment 
-- 🌱 I’m currently learning the fundemtals of coding in python,and web devlopment 
+- 👋 Hi, I’m Evan Salmon
+- 👀 I’m interested in cybersecurity, coding, and web development. 
+- 🌱 I’m currently learning the fundamentals of coding in python, and java 
 - 💞️ I’m looking to collaborate on nothing yet 
 - 📫 How to reach me 
 
