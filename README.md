@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Evan Salmon
-- 👀 I’m interested in cybersecurity, coding, and web development. 
-- 🌱 I’m currently learning the fundamentals of coding in python, and java 
-- 💞️ I’m looking to collaborate on nothing yet 
-- 📫 How to reach me 
+- 👀 I’m interested in cybersecurity, coding, and web development.
+- Linkedin: www.linkedin.com/in/evanwsalmon
 
 <!---
 RoyalSalm0n/RoyalSalm0n is
