@@ -1,7 +1,7 @@
 # Hello 👋
 
 
-- My name is Evan Salmon. I'm a Computer Science student at Western University in London, ON, and I am currently an Integrations Intern at Geotab. 
+- My name is <a href="https://evansalmon.com/"> Evan Salmon </a>. I'm a Computer Science student at Western University in London, ON, and I am currently an Integrations Intern at Geotab. 
 - I’m interested in backend development and embedded systems/IOT.
 - I'm currently working on improving my portfolio website and learning new languages and technologies! 
 <h3 align="left">Languages and Tools:</h3>
